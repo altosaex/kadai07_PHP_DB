@@ -93,7 +93,7 @@ body {
 	background-image: url(img/bg.png);
 	background-size: 120%;
   text-align: center;
-	height: 10000px;
+	height: 800px;
 }
 
 
